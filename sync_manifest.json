@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 06:27:07",
+  "lastUpdated": "2026-10-31 06:30:31",
   "totalCount": 8,
-  "deletedCount": 0,
+  "deletedCount": 1,
   "enable": true,
   "inReset": false,
   "uninstall": false,
@@ -62,10 +62,10 @@
     },
     {
       "photoId": "44",
-      "fileName": "Screenshot_20260813_153039_Totalplay Shop Seller.jpg",
-      "folderName": "Screenshots",
-      "driveFileId": "1p8OqgKYHx8ZfsZBWbHH6Z7m2vMDwg01s",
-      "dateSynced": "2026-10-31 06:27:07"
+      "fileName": "",
+      "folderName": "",
+      "driveFileId": "",
+      "dateSynced": "2026-10-31 06:30:28"
     }
   ]
 }
