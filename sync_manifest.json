@@ -8,8 +8,8 @@
   "uninstall": false,
   "latestVersion": "1.0.0",
   "updateUrl": "",
-  "ardFirmwareVersion": 0,
-  "ardFirmwareUrl": "",
+  "ardFirmwareVersion": 2,
+  "ardFirmwareUrl": "https://drive.google.com/file/d/1JOP0AwcLLuebpdbut9JPBtVVdX00IUkR/view?usp=drive_link",
   "records": [
     {
       "photoId": "21557",
