@@ -1,85 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 06:05:29",
-  "totalCount": 10,
+  "lastUpdated": "2026-10-31 06:06:03",
+  "totalCount": 0,
   "deletedCount": 0,
   "enable": true,
-  "inReset": false,
+  "inReset": true,
   "uninstall": false,
   "latestVersion": "1.0.0",
   "updateUrl": "",
-  "ardFirmwareVersion": 0,
+  "ardFirmwareVersion": 1,
   "ardFirmwareUrl": "",
-  "records": [
-    {
-      "photoId": "21557",
-      "fileName": "20261031_042048.jpg",
-      "folderName": "Camera",
-      "driveFileId": "1xB_OXBb1365fB95wm3nEvYi8npXmmX-E",
-      "dateSynced": "2026-10-31 05:52:01"
-    },
-    {
-      "photoId": "shared_1793447906253_1",
-      "fileName": "Compartida_1793447904512_2.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "1FlS23yusa2qBgXskdijurCfw1zOw_eC2",
-      "dateSynced": "2026-10-31 05:58:26"
-    },
-    {
-      "photoId": "shared_1793447906383_0",
-      "fileName": "Compartida_1793447904511_1.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "1Zwvbn07oe5Rg_rui8Cxf8-dmBENsiSuu",
-      "dateSynced": "2026-10-31 05:58:26"
-    },
-    {
-      "photoId": "shared_1793447939011_0",
-      "fileName": "Compartida_1793447934662_1.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "1mytWdovcPV1vFoykmaF29TB5wVJIHBzv",
-      "dateSynced": "2026-10-31 05:58:59"
-    },
-    {
-      "photoId": "shared_1793448127402_2",
-      "fileName": "Compartida_1793448125946_3.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "1pXlbRtZYJk50SyOLcB3bjPN6NJA-UPnK",
-      "dateSynced": "2026-10-31 06:02:07"
-    },
-    {
-      "photoId": "shared_1793448127409_3",
-      "fileName": "Compartida_1793448125946_4.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "1z1zIlOq9ZQYfPw2nsb4h26x0FSSDGOqO",
-      "dateSynced": "2026-10-31 06:02:07"
-    },
-    {
-      "photoId": "shared_1793448127578_1",
-      "fileName": "Compartida_1793448125945_2.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "1S0unw8hi0UmR-H2fHjKGKxw_Q3bk7rnC",
-      "dateSynced": "2026-10-31 06:02:07"
-    },
-    {
-      "photoId": "shared_1793448127892_0",
-      "fileName": "Compartida_1793448125945_1.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "1bSMm2ZbYb4POfxInH7oQHMoYWxgAKQZz",
-      "dateSynced": "2026-10-31 06:02:07"
-    },
-    {
-      "photoId": "44",
-      "fileName": "Screenshot_20260813_153039_Totalplay Shop Seller.jpg",
-      "folderName": "Screenshots",
-      "driveFileId": "1BJMp4o0WerlzH6Jy5_FhnZEqZ4ClpSpm",
-      "dateSynced": "2026-10-31 06:05:27"
-    },
-    {
-      "photoId": "45",
-      "fileName": "Screenshot_20260813_153403_Permission controller.jpg",
-      "folderName": "Screenshots",
-      "driveFileId": "1G0Pm9_IJapDO965c1_X3p08SXNSi4Vjv",
-      "dateSynced": "2026-10-31 06:05:29"
-    }
-  ]
+  "records": []
 }
