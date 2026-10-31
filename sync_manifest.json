@@ -1,57 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 07:06:22",
-  "totalCount": 6,
-  "deletedCount": 8,
+  "lastUpdated": "2026-10-31 07:08:51",
+  "totalCount": 0,
+  "deletedCount": 0,
   "enable": true,
-  "inReset": false,
+  "inReset": true,
   "uninstall": false,
   "latestVersion": "1.0.0",
   "updateUrl": "",
   "ardFirmwareVersion": 1,
   "ardFirmwareUrl": "https:\/\/drive.google.com\/file\/d\/1Lhq8RsCIg5_opC8QvwesGgaOgYwH1yA-\/view?usp=drive_link",
-  "records": [
-    {
-      "photoId": "shared_1793451883760_3",
-      "fileName": "Compartida_1793451882241_4.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "10YdLPRSffCApWyCFfaVD-ImwYxmxyGFZ",
-      "dateSynced": "2026-10-31 07:04:43"
-    },
-    {
-      "photoId": "shared_1793451884584_5",
-      "fileName": "Compartida_1793451882186_6.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "1Qgo4DLpPZY5_k259pv9as6O2khAx-y66",
-      "dateSynced": "2026-10-31 07:04:44"
-    },
-    {
-      "photoId": "shared_1793451886307_9",
-      "fileName": "Compartida_1793451884671_10.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "1p6Q2XS8zsIRSe9M0NP252Pd95HLFLt8C",
-      "dateSynced": "2026-10-31 07:04:46"
-    },
-    {
-      "photoId": "shared_1793451886367_8",
-      "fileName": "Compartida_1793451884587_9.jpg",
-      "folderName": "Compartidas",
-      "driveFileId": "1Lx8J5lykkCJ3yz5CM0zNz0bffIFUXCnh",
-      "dateSynced": "2026-10-31 07:04:46"
-    },
-    {
-      "photoId": "shared_1793451885775_6",
-      "fileName": "",
-      "folderName": "",
-      "driveFileId": "",
-      "dateSynced": "2026-10-31 07:06:22"
-    },
-    {
-      "photoId": "shared_1793451883596_4",
-      "fileName": "",
-      "folderName": "",
-      "driveFileId": "",
-      "dateSynced": "2026-10-31 07:06:22"
-    }
-  ]
+  "records": []
 }
