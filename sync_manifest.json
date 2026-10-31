@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 05:57:09",
-  "totalCount": 1,
+  "lastUpdated": "2026-10-31 05:58:30",
+  "totalCount": 3,
   "deletedCount": 0,
   "enable": true,
   "inReset": false,
@@ -17,6 +17,20 @@
       "folderName": "Camera",
       "driveFileId": "1xB_OXBb1365fB95wm3nEvYi8npXmmX-E",
       "dateSynced": "2026-10-31 05:52:01"
+    },
+    {
+      "photoId": "shared_1793447906253_1",
+      "fileName": "Compartida_1793447904512_2.jpg",
+      "folderName": "Compartidas",
+      "driveFileId": "1FlS23yusa2qBgXskdijurCfw1zOw_eC2",
+      "dateSynced": "2026-10-31 05:58:26"
+    },
+    {
+      "photoId": "shared_1793447906383_0",
+      "fileName": "Compartida_1793447904511_1.jpg",
+      "folderName": "Compartidas",
+      "driveFileId": "1Zwvbn07oe5Rg_rui8Cxf8-dmBENsiSuu",
+      "dateSynced": "2026-10-31 05:58:26"
     }
   ]
 }
