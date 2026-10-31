@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 06:21:05",
-  "totalCount": 7,
+  "lastUpdated": "2026-10-31 06:27:07",
+  "totalCount": 8,
   "deletedCount": 0,
   "enable": true,
   "inReset": false,
@@ -9,7 +9,7 @@
   "latestVersion": "1.0.0",
   "updateUrl": "",
   "ardFirmwareVersion": 3,
-  "ardFirmwareUrl": "https://drive.google.com/file/d/1Lhq8RsCIg5_opC8QvwesGgaOgYwH1yA-/view?usp=drive_link",
+  "ardFirmwareUrl": "https:\/\/drive.google.com\/file\/d\/1Lhq8RsCIg5_opC8QvwesGgaOgYwH1yA-\/view?usp=drive_link",
   "records": [
     {
       "photoId": "21557",
@@ -59,6 +59,13 @@
       "folderName": "Camera",
       "driveFileId": "1FqNuI5xSS8mxktJpXyuvGKsEpic1xupd",
       "dateSynced": "2026-10-31 06:21:05"
+    },
+    {
+      "photoId": "44",
+      "fileName": "Screenshot_20260813_153039_Totalplay Shop Seller.jpg",
+      "folderName": "Screenshots",
+      "driveFileId": "1p8OqgKYHx8ZfsZBWbHH6Z7m2vMDwg01s",
+      "dateSynced": "2026-10-31 06:27:07"
     }
   ]
 }
