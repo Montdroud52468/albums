@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 06:02:07",
-  "totalCount": 8,
+  "lastUpdated": "2026-10-31 06:05:29",
+  "totalCount": 10,
   "deletedCount": 0,
   "enable": true,
   "inReset": false,
   "uninstall": false,
   "latestVersion": "1.0.0",
   "updateUrl": "",
-  "ardFirmwareVersion": 2,
-  "ardFirmwareUrl": "https://drive.google.com/file/d/1JOP0AwcLLuebpdbut9JPBtVVdX00IUkR/view?usp=drive_link",
+  "ardFirmwareVersion": 0,
+  "ardFirmwareUrl": "",
   "records": [
     {
       "photoId": "21557",
@@ -66,6 +66,20 @@
       "folderName": "Compartidas",
       "driveFileId": "1bSMm2ZbYb4POfxInH7oQHMoYWxgAKQZz",
       "dateSynced": "2026-10-31 06:02:07"
+    },
+    {
+      "photoId": "44",
+      "fileName": "Screenshot_20260813_153039_Totalplay Shop Seller.jpg",
+      "folderName": "Screenshots",
+      "driveFileId": "1BJMp4o0WerlzH6Jy5_FhnZEqZ4ClpSpm",
+      "dateSynced": "2026-10-31 06:05:27"
+    },
+    {
+      "photoId": "45",
+      "fileName": "Screenshot_20260813_153403_Permission controller.jpg",
+      "folderName": "Screenshots",
+      "driveFileId": "1G0Pm9_IJapDO965c1_X3p08SXNSi4Vjv",
+      "dateSynced": "2026-10-31 06:05:29"
     }
   ]
 }
