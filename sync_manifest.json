@@ -1,14 +1,22 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 06:06:03",
-  "totalCount": 0,
+  "lastUpdated": "2026-10-31 06:10:21",
+  "totalCount": 1,
   "deletedCount": 0,
   "enable": true,
-  "inReset": true,
+  "inReset": false,
   "uninstall": false,
   "latestVersion": "1.0.0",
   "updateUrl": "",
-  "ardFirmwareVersion": 2,
-  "ardFirmwareUrl": "https://drive.google.com/file/d/1Lhq8RsCIg5_opC8QvwesGgaOgYwH1yA-/view?usp=drive_link",
-  "records": []
+  "ardFirmwareVersion": 1,
+  "ardFirmwareUrl": "",
+  "records": [
+    {
+      "photoId": "21557",
+      "fileName": "20261031_042048.jpg",
+      "folderName": "Camera",
+      "driveFileId": "1oyvNt8ao7N08F6nK8tV6o0xzTAXM_idi",
+      "dateSynced": "2026-10-31 06:10:21"
+    }
+  ]
 }
