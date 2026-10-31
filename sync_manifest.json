@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 06:41:10",
+  "lastUpdated": "2026-10-31 06:44:05",
   "totalCount": 0,
   "deletedCount": 0,
   "enable": true,
-  "inReset": false,
+  "inReset": true,
   "uninstall": false,
   "latestVersion": "1.0.0",
   "updateUrl": "",
-  "ardFirmwareVersion": 5,
+  "ardFirmwareVersion": 6,
   "ardFirmwareUrl": "https:\/\/drive.google.com\/file\/d\/1Lhq8RsCIg5_opC8QvwesGgaOgYwH1yA-\/view?usp=drive_link",
   "records": []
 }
