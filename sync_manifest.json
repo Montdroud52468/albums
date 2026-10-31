@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 05:58:30",
-  "totalCount": 3,
+  "lastUpdated": "2026-10-31 05:59:13",
+  "totalCount": 4,
   "deletedCount": 0,
   "enable": true,
   "inReset": false,
@@ -31,6 +31,13 @@
       "folderName": "Compartidas",
       "driveFileId": "1Zwvbn07oe5Rg_rui8Cxf8-dmBENsiSuu",
       "dateSynced": "2026-10-31 05:58:26"
+    },
+    {
+      "photoId": "shared_1793447939011_0",
+      "fileName": "Compartida_1793447934662_1.jpg",
+      "folderName": "Compartidas",
+      "driveFileId": "1mytWdovcPV1vFoykmaF29TB5wVJIHBzv",
+      "dateSynced": "2026-10-31 05:58:59"
     }
   ]
 }
