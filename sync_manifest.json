@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 07:15:59",
-  "totalCount": 2,
-  "deletedCount": 0,
+  "lastUpdated": "2026-10-31 07:16:08",
+  "totalCount": 1,
+  "deletedCount": 1,
   "enable": true,
   "inReset": false,
   "uninstall": false,
@@ -17,13 +17,6 @@
       "folderName": "Camera",
       "driveFileId": "1pxSQh5nkZ_z0ecnvV-4Aqz55SJf_qbA5",
       "dateSynced": "2026-10-31 07:15:16"
-    },
-    {
-      "photoId": "21558",
-      "fileName": "20261031_062057.jpg",
-      "folderName": "Camera",
-      "driveFileId": "1H13bb0kza9w7ufd84zNn2PhB-_nublVO",
-      "dateSynced": "2026-10-31 07:15:58"
     }
   ]
 }
