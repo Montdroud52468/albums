@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31 06:14:40",
-  "totalCount": 5,
+  "lastUpdated": "2026-10-31 06:19:33",
+  "totalCount": 6,
   "deletedCount": 0,
   "enable": true,
   "inReset": false,
   "uninstall": false,
   "latestVersion": "1.0.0",
   "updateUrl": "",
-  "ardFirmwareVersion": 2,
-  "ardFirmwareUrl": "https://drive.google.com/file/d/1Lhq8RsCIg5_opC8QvwesGgaOgYwH1yA-/view?usp=drive_link",
+  "ardFirmwareVersion": 1,
+  "ardFirmwareUrl": "",
   "records": [
     {
       "photoId": "21557",
@@ -45,6 +45,13 @@
       "folderName": "Compartidas",
       "driveFileId": "1dJgyuL3QOfoBl5vaweT9ubtPm56TPEaw",
       "dateSynced": "2026-10-31 06:14:40"
+    },
+    {
+      "photoId": "shared_1793449173173_0",
+      "fileName": "Compartida_1793449170528_1.jpg",
+      "folderName": "Compartidas",
+      "driveFileId": "1OdezCUvNZqzXUEWHtZ5ysjhUQqB0eNmA",
+      "dateSynced": "2026-10-31 06:19:33"
     }
   ]
 }
